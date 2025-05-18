@@ -9,7 +9,7 @@ export default function Footer() {
         </p>
         <div className="mt-2 space-x-4">
           <a
-            href="https://github.com/yourusername"
+            href="https://github.com/bat-dev-hub/batman-portfolio"
             target="_blank"
             rel="noopener noreferrer"
             className="hover:text-white transition"
